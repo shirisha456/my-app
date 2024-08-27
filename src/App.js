@@ -16,9 +16,9 @@ function App() {
 
   
   return (
-    <>
+    <>git 
   <Router>  
-  <Navbar title="Harry" aboutText="About" />
+  <Navbar title="sanam" aboutText="About" />
 
   <Warning alert="This is alert" />
   <div className="container my-3">
