@@ -18,7 +18,7 @@ function App() {
   return (
     <> 
   <Router>  
-  <Navbar title="kuku" aboutText="About" />
+  <Navbar title="parrot" aboutText="About" />
 
   <Warning alert="This is alert" />
   <div className="container my-3">
